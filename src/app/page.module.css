@@ -18,13 +18,13 @@
     width: 100%;
 }
 
-.page__form button{
+/* .page__form button{
     padding: .5rem 1rem;
     background-color: #2563eb;
     border: none;
     color: #fff;
     border-radius: .5rem;
-}
+} */
 
 .page__job_list{
     margin-top: 1.5rem;

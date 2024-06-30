@@ -8,7 +8,7 @@ export default function Home() {
       <h2 className={styles.page__title}>Encuentra el próximo trabajo de tus sueños</h2>
       <p className={styles.page__description}>Busque entre miles de ofertas de trabajo y encuentre la opción perfecta para usted.</p>
       <form className={styles.page__form} action="">
-        <input type="search" name="keyword" id="keyword" placeholder="Empleo, Empresa, palabra clave" />
+        <input type="search" name="keyword" id="keyword" placeholder="Puesto, Empresa, palabra clave" />
         <input type="search" name="city" id="city" placeholder="Ciudad"/>
         <button type="submit">Buscar</button>
       </form>

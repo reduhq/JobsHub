@@ -13,6 +13,15 @@
     margin: auto;
 }
 
+.navbar__title{
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding: 1rem 0;
+
+    text-decoration: none;
+    color: #000;
+}
+
 .navbar__links{
     display: flex;
     gap: 1rem;
